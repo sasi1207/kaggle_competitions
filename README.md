@@ -1,2 +1,2 @@
-# kaggle_competitions
-these are all my kaggle competitions jupyter notebooks.
+# kaggle_notebooks
+these are all my kaggle jupyter notebooks.
